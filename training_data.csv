@@ -1,0 +1,121 @@
+﻿description,category
+tea,food
+coffee,food
+snacks,food
+cold drink,food
+pizza,food
+burger,food
+fruits,food
+samosa,food
+zomato,food
+swiggy,food
+biryani,food
+maggi,food
+biscuit,food
+dinner,food
+lunch,food
+breakfast,food
+sandwich,food
+chocolate,food
+ice cream,food
+juice,food
+hand wash,essentials
+sanitizer,essentials
+shampoo,essentials
+soap,essentials
+toothpaste,essentials
+detergent,essentials
+towel,essentials
+bucket,essentials
+facewash,essentials
+deodorant,essentials
+medicine,essentials
+bandaid,essentials
+mask,essentials
+trimmer,essentials
+comb,essentials
+umbrella,essentials
+pillow,essentials
+curtain,essentials
+mirror,essentials
+bedsheet,essentials
+cellular plans,bills
+duolingo,bills
+chess.com,bills
+chatgpt,bills
+gemini,bills
+laundry,bills
+gym,bills
+google workspace,bills
+microsoft 365,bills
+electricity,bills
+water bill,bills
+wifi bill,bills
+rent,bills
+gas cylinder,bills
+tuitions,bills
+cloud storage,bills
+loan,bills
+emi,bills
+software subscription,bills
+newspaper,bills
+steam,entertainment
+netflix,entertainment
+jiohotstar,entertainment
+spotify,entertainment
+fancode,entertainment
+youtube,entertainment
+movie,entertainment
+amazon prime video,entertainment
+arcade,entertainment
+concert,entertainment
+gaming,entertainment
+party,entertainment
+zoo,entertainment
+sport,entertainment
+dth,entertainment
+cable tv,entertainment
+apple tv,entertainment
+ott subscriptions,entertainment
+event,entertainment
+festival,entertainment
+train ticket,travel
+bus ticket,travel
+rickshaw fare,travel
+tickets,travel
+trip,travel
+uber,travel
+metro,travel
+flight ticket,travel
+taxi,travel
+ola,travel
+rapido,travel
+parking fee,travel
+toll tax,travel
+vacation,travel
+maps,travel
+luggage,travel
+hotel,travel
+fuel,travel
+tour package,travel
+passport fees,travel
+notebook,academics
+pen,academics
+printout,academics
+xerox,academics
+book,academics
+nptel exam,academics
+re exam,academics
+arrear exam,academics
+vityarthi,academics
+college tuition,academics
+lab equipment,academics
+assignments,academics
+project material,academics
+library fees,academics
+scientific calculator,academics
+stationery,academics
+coursera,academics
+udemy,academics
+coaching,academics
+educational apps,academics
