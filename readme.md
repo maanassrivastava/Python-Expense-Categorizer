@@ -2,7 +2,7 @@
 
 
 
-An automatic, machine learning powered tool that is helpful in the categorization of daily transactions into 7 categories: Bills, Food, Essentials, Academics, Entertainment and Travel. This project is an application of NLP to solve the problem of real world data organisation challenges. It aims to make the manual bookkeeping redundant by using a calibrated SVM, to predict the categories of transaction based on a text description. A fallback logic has been used as well to avoid wrong confident answers. A confidence meter is also built in, to make the user know how sure the AI is of the category so decided.
+An automatic, machine learning powered tool that is helpful in the categorization of daily transactions into 7 categories: Bills, Food, Essentials, Academics, Entertainment, Travel and Miscellaneous. This project is an application of NLP to solve the problem of real world data organisation challenges. It aims to make the manual bookkeeping redundant by using a calibrated SVM, to predict the categories of transaction based on a text description. A fallback logic has been used as well to avoid wrong confident answers. A confidence meter is also built in, to make the user know how sure the AI is of the category so decided.
 
 
 
